@@ -1,6 +1,6 @@
-# Forenzika fajl sistema
+# File system forensics
 
-## DarkFIleSystem
+## DarkFileSystem
 
 
 ## Tech Stack
